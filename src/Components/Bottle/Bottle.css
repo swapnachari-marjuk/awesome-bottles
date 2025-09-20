@@ -1,0 +1,9 @@
+.bottle-card{
+    border: 2px solid goldenrod;
+    border-radius: 14px;
+    padding: 10px;
+}
+
+.bottle-card> img {
+    max-width: 170px;
+}
